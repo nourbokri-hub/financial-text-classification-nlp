@@ -1,0 +1,33 @@
+# Environnement Python
+.venv/
+venv/
+
+# Cache Python
+__pycache__/
+*.pyc
+
+# Jupyter
+.ipynb_checkpoints/
+
+# VS Code
+.vscode/
+
+# Fichiers temporaires
+*.log
+
+# Secrets
+.env
+.env.*
+!.env.example
+
+# Modeles entraines
+*.pt
+*.pth
+
+# Donnees locales
+data/
+datasets/
+
+# Documents personnels
+rapport_stage*.pdf
+journal_stage*.pdf

@@ -1,0 +1,10 @@
+torch
+datasets
+numpy
+pandas
+matplotlib
+scikit-learn
+seaborn
+transformers
+gradio>=6.0
+ipykernel
